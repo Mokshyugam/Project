@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+}
+
+.heading {
+    width: 100%;
+    font-size: 18px;
+    margin: 0px;
+}
+
+#start, #status, #object_found{
+    font-size: 18px;
+}
+
+
+
+canvas{
+    border: 2px solid chocolate;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px crimson ;
+}
+
+#ans{
+    width: 400px;
+    
+}
